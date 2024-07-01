@@ -70,7 +70,7 @@
   </tr>
   </table>
   
-## 👩‍💻 Consistency
+## 🔄 Consistency
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
 
 
