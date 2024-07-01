@@ -18,12 +18,13 @@
 
 - ⚡ Fun fact **I known all the memes;**
 
-<h3 align="left">Connect with me:</h3>
+## 🤝🏻 &nbsp;Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/faizanahmad_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizanahmad_5" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/faizan-ahmad-98b51725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizanahmad98" height="30" width="40" /></a>
-<a href="https://instagram.com/faizanahmad._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizanahmad._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCE4FIXxTqvVGsXJQdfcf3aQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.faizan25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahsan-abdullah-4812bb236/"><img src="https://img.shields.io/badge/-Ahsan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sefaizanahmad@gmail.com"><img src="https://img.shields.io/badge/-sefaizanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/x9Hx6ZijswqH"><img src="https://img.shields.io/badge/-Ahsan-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
