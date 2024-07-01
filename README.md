@@ -13,8 +13,12 @@
 - 🤝 I’m looking for help with **I am happy to help;**
 
 - 💬 Ask me about **I am happy to help;**
+  
+- 💻 Most used code-editor **Visual studio Code**
 
 - 📫 How to reach me **faizanahmad5524@gmail.com**
+  
+- 🎥 Fun Fact: I love to watching films **both bollywood and hollywood**
 
 - ⚡ Fun fact **I known all the memes;**
 
@@ -23,11 +27,30 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefaizanahmad/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefaizanahmad@gmail.com)
-[![Skype Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.skype.com/invite/wdO6yOdSH4bf)
+[![Skype Badge](https://img.shields.io/badge/Skype-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.skype.com/invite/wdO6yOdSH4bf)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com//)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+## 💻 Languages and Tools:
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sefaizanahmad)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sefaizanahmad)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/sefaizanahmad)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/sefaizanahmad)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/sefaizanahmad)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/sefaizanahmad)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/sefaizanahmad)
+[![Github Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sefaizanahmad)
+[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sefaizanahmad)
+[![Python Badge](https://img.shields.io/badge/Python-330F63?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sefaizanahmad)
+[![Django Badge](https://img.shields.io/badge/Django-330F63?style=for-the-badge&logo=django&logoColor=white)](https://github.com/sefaizanahmad)
+[![MySql Badge](https://img.shields.io/badge/MySql-330F63?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sefaizanahmad)
+[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sefaizanahmad)
+[![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/sefaizanahmad)
+[![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sefaizanahmad)
+[![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/sefaizanahmad)
+[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/sefaizanahmad)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefaizanahmad&show_icons=true&locale=en&layout=compact" alt="sefaizanahmad" /></p>
 
