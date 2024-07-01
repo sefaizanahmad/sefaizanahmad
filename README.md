@@ -57,5 +57,5 @@
 
 
 ## 🏆 GitHub Trophies
-![https://github.com/sefaizanahmad?tab=repositories](https://github-profile-trophy.vercel.app/?username=sefaizanahmad&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![](https://github-profile-trophy.vercel.app/?username=sefaizanahmad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
