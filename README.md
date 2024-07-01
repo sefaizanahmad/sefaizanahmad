@@ -22,8 +22,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sefaizanahmad/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sefaizanahmad@gmail.com"><img src="https://img.shields.io/badge/-sefaizanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/x9Hx6ZijswqH"><img src="https://img.shields.io/badge/-Ahsan-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="mailto:sefaizanahmad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a https:"//join.skype.com/invite/wdO6yOdSH4bf"><img src="https://img.shields.io/badge/-Skype-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
 
 </p>
 
