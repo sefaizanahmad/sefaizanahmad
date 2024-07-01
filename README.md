@@ -54,6 +54,6 @@
 
  <img  align=top  alt="sefaizanahmad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sefaizanahmad&show_icons=true&locale=en" alt="sefaizanahmad" /></p>
+<img align=top src="https://github-readme-stats.vercel.app/api?username=sefaizanahmad&show_icons=true&theme=radical"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&" alt="sefaizanahmad" /></p>
