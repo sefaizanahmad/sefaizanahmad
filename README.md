@@ -53,11 +53,10 @@
 
 
 # 📊 GitHub Stats:
-<p>
 ![](https://github-readme-stats.vercel.app/api?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&" alt="sefaizanahmad" /></p>
