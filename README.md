@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="faizanahmad25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaizanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="sefaizanahmad" /> </p>
 
 - 🔭 I’m currently working on **something really cool 😉;**
 
@@ -52,8 +52,8 @@
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/sefaizanahmad)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefaizanahmad&show_icons=true&locale=en&layout=compact" alt="sefaizanahmad" /></p>
-
+ <img  align=top  alt="sefaizanahmad" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sefaizanahmad&show_icons=true&locale=en" alt="sefaizanahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&" alt="sefaizanahmad" /></p>
