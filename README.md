@@ -51,8 +51,25 @@
 
 
 # 📊 GitHub Status
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<table>
+  <tr>
+    <th><h1>Score</h1></th>
+    <th><h1>Languages</h1></th>
+  </tr>
+  <tr>
+    <td>
+<a href="https://github.com/sefaizanahmad/sefaizanahmad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sefaizanahmad&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="sefaizanahmad GitHub Stats" />
+</a></td>
+    <td>
+   
+  <a href="https://github.com/sefaizanahmad/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&theme=highcontrast" />
+</a>
+</td>
+  </tr>
+  </table>
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
 
 
