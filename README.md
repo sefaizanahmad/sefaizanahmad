@@ -23,8 +23,6 @@
 - ⚡ Fun fact **I known all the memes;**
 
 ## 🤝🏻 &nbsp;Connect with Me
-
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefaizanahmad/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefaizanahmad@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/Skype-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.skype.com/invite/wdO6yOdSH4bf)
@@ -32,7 +30,7 @@
 
 
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sefaizanahmad)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sefaizanahmad)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/sefaizanahmad)
@@ -52,11 +50,12 @@
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/sefaizanahmad)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sefaizanahmad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
 
 
+## 🏆 GitHub Trophies
+![https://github.com/sefaizanahmad?tab=repositories](https://github-profile-trophy.vercel.app/?username=sefaizanahmad&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&" alt="sefaizanahmad" /></p>
