@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **I am happy to help;**
   
-- 💻 Most used code-editor **Visual studio Code**
+- 💻 Most used code-editor **Visual studio Code;**
 
 - 📫 How to reach me **faizanahmad5524@gmail.com**
   
-- 🎥 Fun Fact: I love to watching films **both bollywood and hollywood**
+- 🎥 Fun Fact: I love to watching films **both bollywood and hollywood;**
 
 - ⚡ Fun fact **I known all the memes;**
 
@@ -70,7 +70,7 @@
   </tr>
   </table>
   
-## 🕸️ Consistency:
+## 👩‍💻 Consistency
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sefaizanahmad&theme=dark&hide_border=true)<br/>
 
 
