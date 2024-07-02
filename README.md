@@ -25,7 +25,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefaizanahmad/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefaizanahmad@gmail.com)
-[![Skype Badge](https://img.shields.io/badge/Skype-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://join.skype.com/invite/wdO6yOdSH4bf)
+[![Skype Badge](https://img.shields.io/badge/Skype-7289DA?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wdO6yOdSH4bf)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com//)
 
 
