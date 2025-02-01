@@ -5,10 +5,9 @@
 
 <br/>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 <div align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahazainab&label=Profile%20views&color=0e75b6&style=flat" alt="mahazainab" />
-  <a href="https://user-badge.committers.top/pakistan/MahaZainab">
+  <a href="https://user-badge.committers.top/pakistan/sefaizanahmad">
     <img src="https://user-badge.committers.top/pakistan/MahaZainab.svg" alt="committers.top badge" />
   </a>
 </div>
