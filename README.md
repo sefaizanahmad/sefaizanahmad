@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MahaZainab&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sefaizanahmad&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 <br/>
 
 <div align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahazainab&label=Profile%20views&color=0e75b6&style=flat" alt="mahazainab" />
+  <img src="https://komarev.com/ghpvc/?username=sefaizanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="sefaizanahmad" />
   <a href="https://user-badge.committers.top/pakistan/sefaizanahmad">
-    <img src="https://user-badge.committers.top/pakistan/MahaZainab.svg" alt="committers.top badge" />
+    <img src="https://user-badge.committers.top/pakistan/sefaizanahmad.svg" alt="committers.top badge" />
   </a>
 </div>
 
