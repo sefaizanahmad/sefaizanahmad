@@ -7,6 +7,7 @@
 
 <div align="left"> 
   <a href="https://user-badge.committers.top/pakistan/sefaizanahmad">
+    <img src="https://komarev.com/ghpvc/?username=sefaizanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="sefaizanahmad" />
     <img src="https://user-badge.committers.top/pakistan/sefaizanahmad.svg" alt="committers.top badge" />
   </a>
 </div>
