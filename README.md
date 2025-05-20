@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sefaizanahmad&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/sefaizanahmad/github-widgetbox)
+
 
 <br/>
 
