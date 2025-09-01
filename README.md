@@ -28,7 +28,7 @@
   
 - 💻 Most used code-editor **Visual studio Code;**
 
-- 📫 How to reach me **faizanahmad5524@gmail.com**
+- 📫 How to reach me **hello.faizanahmad@gmail.com**
   
 - 🎥 Fun Fact: I love to watching films **both bollywood and hollywood;**
 
